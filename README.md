@@ -1,1 +1,67 @@
 # README.ME.
+Sprint planning para criar solucoes de gestao de estoque.
+daily scrum a ser realizada no inicio de cada dia.
+turma: hacker XP 37
+
+* Sprint destinada a criar solucoes para gerenciar o estoque 
+* Sprint 1- programacao
+Atividade 1.1. preparar o ambiente de programacao 
+Estimativa(pontos):1 
+Inicio: 11/05/2021
+termino: 11/05/2021
+
+Atividade 1.2.quantidade total de itens em estoque
+estimativa(pontos):13
+inicio: 11/05/2021
+termino: 12/05/2021
+
+atividade 1.3. Quantidade total de itens em destaque
+Estimativa(pontos):8
+Inico:13/05/2021
+termino:13/05/2021
+
+Atividade 1.4. Quantidade de de itens disponíveis
+Estimativa(pontos):5
+Inicio:14/05/2021
+Termino:15/05/2021
+
+Atividade 1.5 valor total do inventário
+Estimativa(pontos):13
+Inicio:19/05/2021
+Termino:21/05/2021
+
+Atividade 1.6 quantidade total de itens por departamento
+Estimativa(pontos):2
+Inicio:23/05/2021
+Termino:23/05/2021
+
+Atividade 1.7 valor total do tícket médio dos produtos
+Estimativa(pontos):5
+Inicio:24/05/2021
+Termino:24/05/2021
+
+Atividade 1.8 valor do tícket médio do produto por departamento
+Estimativa(pontos):3
+Inicio:25/06/2021
+termino:26/05/2021
+
+
+Atividade 1.10 definir de apartamento mais caro do estoque
+Estimativa(pontos):8
+Inicio:27/05/2021
+Termino:27/05/2021
+
+Atividade 1.11 determinar os produtos mais caros estoque
+Estimativa (pontos):3
+Inicio:31/05/2021
+Termino:31/05/2021
+
+Atividade 1.12 determinado produto mais barato do estoque
+Estimativa(pontos):3
+Inicio:01/06/2021
+Termino:01/06/2021
+
+Atividade 1.13 Sprint Review e Sprint Retrospective
+Estinativa(pontos)n/a
+inicio:02/06/2021
+termino02/06/2021
